@@ -1,0 +1,219 @@
+body {
+    font-family: Gill Sans;
+}
+
+
+/* section1---------------------------------------------------------- */
+
+
+/* .section1 {
+    background-image: url('../image/BG catering.png');
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+} */
+
+.title-section1,
+.title-section3 {
+    color: #2D2D2D;
+    font-size: 50px;
+    font-family: Gill SansBold;
+}
+
+.text-section1 {
+    color: #2d2d2db8;
+}
+
+
+/* ./section1-------------------------------------------------------------- */
+
+
+/* section2--------------------------------------------------------------- */
+
+.title-section2 {
+    color: #2D2D2D;
+    font-size: 50px;
+    font-family: Gill SansBold;
+    border-bottom: 2px solid #C79C45;
+    display: table;
+    margin: 5% auto;
+}
+
+
+/* ./section2---------------------------------------------------------- */
+
+
+/* section3---------------------------------------------------------------- */
+
+.bg-color-section3 {
+    background-color: #3591C5;
+    padding: 8% 5%;
+}
+
+.btn-send {
+    background: #C79C45;
+    width: 22%;
+    color: white;
+    font-size: 25px;
+    font-family: Gill SansBold;
+    margin-top: 5%;
+}
+
+.btn-send:hover {
+    color: white;
+}
+
+.effect-1 {
+    border: 0;
+    padding: 15px 0;
+    border-bottom: 1px solid #ccc;
+    width: 100%;
+    background-color: #3591C5;
+    margin-top: 6%;
+    border-radius: 0px !important;
+}
+
+.effect-1::placeholder {
+    color: #FFFFFF;
+}
+
+.effect-2 {
+    border: 0;
+    padding: 15px 0;
+    border-bottom: 1px solid #ccc;
+    width: 48%;
+    background-color: #3591C5;
+}
+
+.effect-2::placeholder {
+    color: #FFFFFF;
+}
+
+.effect-1:focus~.focus-border {
+    width: 100%;
+    transition: 0.4s;
+}
+
+.effect-1~.focus-border {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background-color: #C79C45;
+    transition: 0.4s;
+}
+
+input.effect-1:focus {
+    outline: none;
+}
+
+.effect-2:focus~.focus-border {
+    width: 48%;
+    transition: 0.4s;
+}
+
+.effect-2~.focus-border {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background-color: #C79C45;
+    transition: 0.4s;
+}
+
+input.effect-2:focus {
+    outline: none;
+}
+
+
+/* ./section3----------------------------------------------------*/
+
+
+/* responsive-------------------------------------------------------------------- */
+
+@media only screen and (min-width: 320px) and (max-width: 567px) {
+    .title-section1 {
+        font-size: 25px;
+
+
+        padding-left: 1rem !important;
+    }
+    .res-img-section1 {
+        width: 100%;
+        margin-left: 5%;
+    }
+    .title-section2 {
+        font-size: 30px;
+    }
+    .title-section3 {
+        font-size: 25px;
+    }
+    .effect-2 {
+        width: 100%;
+    }
+    .btn-send {
+        width: 100%;
+        margin-top: 10%;
+    }
+
+    .modal-dialog.modal-dialog-centered {
+        max-width: 100%;
+    }
+    .modal-dialog.modal-dialog-centered {
+        max-width: 90%;
+        margin: auto;
+    }
+    .modal-dialog.modal-dialog-centered {
+        max-width: 100% !important;
+    }
+    .input-group{
+        padding: 0px !important;
+    }
+}
+
+@media only screen and (min-width: 577px) and (max-width: 767px) {
+    .title-section1 {
+        font-size: 25px;
+    }
+    .res-sm {
+        margin-top: 10% !important;
+    }
+    .btn-send {
+        width: 50%;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width:1200px) {
+    .title-section1 {
+        font-size: 25px;
+    }
+}
+
+
+/* ./responsive----------------------------------------------------------------- */
+.modal-dialog.modal-dialog-centered {
+    max-width: 60%;
+}
+
+button.close:focus {
+    outline: none;
+}
+
+.modal-content {
+    background-color: #ffffff59;
+}
+
+
+/*date-------------------------------------------------------------------------------------*/
+.input-group-addon {
+    background: #ada3a36b !important;
+    padding: 2% !important;
+    border-top-left-radius: 7px !important;
+    border-bottom-left-radius: 7px !important;
+}
+.lbl-style {
+    color: white;
+    margin-top: 5%;
+}

@@ -1,0 +1,142 @@
+body {
+    font-family: Gill Sans;
+    background-color: #F8F8F8;
+}
+
+
+/* section1--------------------------------------------------------------------- */
+
+.section1 {
+    background-image: url('../img/bg_index.png');
+    height: 100vh;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+}
+
+.text-section1 {
+    color: #FFFFFF;
+    font-family: Gill SansBold;
+    font-size: 30px;
+}
+
+.text-section1:hover {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.padding-style {
+    padding: 5% 0px;
+}
+
+.padding-style1 {
+    padding: 4% 0px 0px;
+}
+
+.p-section1 {
+    color: white;
+    font-size: 25px;
+}
+
+.span-text {
+    font-family: Gill SansBold;
+    color: #C79C45;
+}
+
+.text-section{
+    margin: 7.7% 0px 5%;
+}
+
+/* ./section1------------------------------------------------------ */
+
+.pl-section{
+    padding-left:3rem ;
+}
+/* responsiv-------------------------------------------------------- */
+
+@media only screen and (min-width: 320px) and (max-width: 567px) {
+    .text-section{
+        margin: 0px;
+    }
+    .respons-logo {
+        width: 35%;
+        display: table;
+        margin: auto;
+        margin-top: -20%;
+    }
+    .text-section1 {
+        font-size: 20px;
+        display: table;
+        margin: auto;
+        padding-top: 7%;
+    }
+    .rw-respons {
+        margin: 0px;
+    }
+    .location {
+        width: 70%;
+    }
+    .p-section1 {
+        font-size: 16px;
+    }
+    .date {
+        width: 100%;
+    }
+    .section1 {
+        height: 100vh;
+    }
+
+    .padding-style1 {
+        padding: 12% 0px 0px !important;
+    }
+    .pl-section{
+        padding-left:1rem ;
+    }
+}
+
+@media only screen and (min-width: 568px) and (max-width: 767px) {
+    .text-section{
+        margin: 0px;
+    }
+    .respons-logo {
+        width: 15%;
+        display: table;
+        margin: auto;
+        margin-top: 5%;
+    }
+    .rw-respons {
+        margin: 0px;
+    }
+    .date {
+        width: 50%;
+    }
+    .location {
+        width: 50%;
+    }
+    .section1 {
+        height: auto;
+    }
+    .text-section1 {
+        display: table;
+        margin: auto;
+        padding-top: 7%;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1200px) {
+    .text-section{
+        margin: 0px;
+    }
+    .p-section1 {
+        font-size: 20px;
+    }
+    .section1 {
+        height: 100vh;
+    }
+}
+
+@media only screen and (min-width: 1201px) and (max-width: 1400px) {
+    .text-section {
+        margin: 2% 0px 2%;
+    }
+}

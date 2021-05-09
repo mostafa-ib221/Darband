@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/MostafaSharami09360170678/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/MostafaSharami09360170678/vendor/myclabs/deep-copy" />
+      <excludeFolder url="file://$MODULE_DIR$/MostafaSharami09360170678/vendor/asm89/stack-cors" />
+      <excludeFolder url="file://$MODULE_DIR$/MostafaSharami09360170678/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/MostafaSharami09360170678/vendor/league/oauth2-server" />
+      <excludeFolder url="file://$MODULE_DIR$/MostafaSharami09360170678/vendor/league/commonmark" />
+      <excludeFolder url="file://$MODULE_DIR$/MostafaSharami09360170678/vendor/league/flysystem" />
+      <excludeFolder url="file://$MODULE_DIR$/MostafaSharami09360170678/vendor/league/event" />
+      <excludeFolder url="file://$MODULE_DIR$/MostafaSharami09360170678/vendor/league/mime-type-detection" />
+      <excludeFolder url="file://$MODULE_DIR$/MostafaSharami09360170678/vendor/brick/math" />
+      <excludeFolder url="file://$MODULE_DIR$/MostafaSharami09360170678/vendor/phpunit/php-file-iterator" />
+      <excludeFolder url="file://$MODULE_DIR$/MostafaSharami09360170678/vendor/phpunit/phpunit" />
+      <excludeFolder url="file://$MODULE_DIR$/MostafaSharami09360170678/vendor/dragonmantank/cron-expression" />
+      <excludeFolder url="file://$MODULE_DIR$/MostafaSharami09360170678/vendor/phpseclib/phpseclib" />
+      <excludeFolder url="file://$MODULE_DIR$/MostafaSharami09360170678/vendor/mockery/mockery" />
+      <excludeFolder url="file://$MODULE_DIR$/MostafaSharami09360170678/vendor/ralouphie/getallheaders" />
+      <excludeFolder url="file://$MODULE_DIR$/MostafaSharami09360170678/vendor/psy/psysh" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

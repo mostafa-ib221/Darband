@@ -1,0 +1,176 @@
+body {
+    font-family: Gill Sans;
+    background-color: #F8F8F8;
+}
+
+
+/* section1----------------------------------------------- */
+
+.title-left {
+    color: #2D2D2D;
+    font-size: 20px;
+    font-family: Gill SansBold;
+    padding-bottom: 5%;
+}
+
+.paddding-stle {
+    padding: 7%;
+}
+
+.effect-1 {
+    border: 0;
+    padding: 5px 0;
+    border-bottom: 1px solid #ccc;
+    width: 100%;
+    background-color: #F8F8F8;
+}
+
+.effect-1:focus~.focus-border {
+    width: 100%;
+    transition: 0.4s;
+}
+
+.effect-1~.focus-border {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background-color: #C79C45;
+    transition: 0.4s;
+}
+
+input.effect-1:focus {
+    outline: none;
+}
+
+.lbl {
+    color: #2125297d;
+}
+
+.number {
+    border: none;
+    border-bottom: 1px solid #0000003b !important;
+    width: 44%;
+    background: #f8f8f8;
+    margin-top: 8%;
+}
+
+.number:focus {
+    border: none;
+    border-bottom: 1px solid #0000003b !important;
+    outline: none;
+}
+
+.btn-Payment {
+    background-color: #C79C45;
+    /*color: #DFDFDF;*/
+    color: #FFFFFF;
+    border-radius: 5px;
+    width: 63%;
+    margin-left: -5%;
+    margin-top: 10%;
+    padding: 1rem 0px;
+}
+
+.btn-Payment:hover {
+    color: #DFDFDF;
+}
+
+.btn-Payment:focus {
+    box-shadow: none;
+}
+
+.number-order {
+    color: #3591C5;
+}
+
+.name-order,
+.price-order {
+    color: #0000008a;
+}
+
+.deliver,
+.lbl1 {
+    color: black;
+}
+
+.slash {
+    font-family: Gill SansBold;
+}
+
+.section-oadding {
+    padding-top: 10%;
+}
+
+
+/* ./section1--------------------------------------------- */
+
+
+/* responsive-------------------------------------------------------------------- */
+
+@media only screen and (min-width: 320px) and (max-width: 567px) {
+    .btn-Payment {
+        width: 100%;
+        margin: 10% 0px;
+    }
+    .section-oadding {
+        padding-top: 25%;
+    }
+}
+
+@media only screen and (min-width: 568px) and (max-width:767px) {
+    .btn-Payment {
+        width: 100%;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width:1200px) {
+    .lbl2 {
+        color: #2125297d;
+        margin-top: 7%;
+        margin-left: 4%;
+    }
+    .number {
+        border: none;
+        border-bottom: 1px solid #0000003b !important;
+        width: 38%;
+        background: #f8f8f8;
+        margin-top: 17%;
+    }
+}
+
+
+
+
+/**
+ * The CSS shown here will not be introduced in the Quickstart guide, but shows
+ * how you can use CSS to style your Element's container.
+ */
+.StripeElement {
+    box-sizing: border-box;
+
+    height: 40px;
+
+    padding: 10px 12px;
+
+    border: 1px solid transparent;
+    border-radius: 4px;
+    background-color: white;
+
+    box-shadow: 0 1px 3px 0 #e6ebf1;
+    -webkit-transition: box-shadow 150ms ease;
+    transition: box-shadow 150ms ease;
+}
+
+.StripeElement--focus {
+    box-shadow: 0 1px 3px 0 #cfd7df;
+}
+
+.StripeElement--invalid {
+    border-color: #fa755a;
+}
+
+.StripeElement--webkit-autofill {
+    background-color: #fefde5 !important;
+}

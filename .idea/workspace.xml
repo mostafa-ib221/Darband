@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="29056973-bbd3-487a-81bb-2e6c2b673f4a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true">
+    <pharConfigPath>$PROJECT_DIR$/MostafaSharami09360170678/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/MostafaSharami09360170678/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/MostafaSharami09360170678/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/MostafaSharami09360170678/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/MostafaSharami09360170678/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/MostafaSharami09360170678/vendor/league/oauth2-server" />
+      <path value="$PROJECT_DIR$/MostafaSharami09360170678/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/MostafaSharami09360170678/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/MostafaSharami09360170678/vendor/league/event" />
+      <path value="$PROJECT_DIR$/MostafaSharami09360170678/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/MostafaSharami09360170678/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/MostafaSharami09360170678/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/MostafaSharami09360170678/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/MostafaSharami09360170678/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/MostafaSharami09360170678/vendor/phpseclib/phpseclib" />
+      <path value="$PROJECT_DIR$/MostafaSharami09360170678/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/MostafaSharami09360170678/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/MostafaSharami09360170678/vendor/psy/psysh" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1s6WlcoHOA5qaEdoyxsy2cbIkmX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/MostafaSharami09360170678/resources/assets/soon" />
+      <recent name="$PROJECT_DIR$/MostafaSharami09360170678/resources/assets" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29056973-bbd3-487a-81bb-2e6c2b673f4a" name="Default Changelist" comment="" />
+      <created>1620193672319</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620193672319</updated>
+      <workItem from="1620193673549" duration="3847000" />
+      <workItem from="1620200404735" duration="1612000" />
+      <workItem from="1620204828131" duration="841000" />
+      <workItem from="1620205700876" duration="102000" />
+      <workItem from="1620205809992" duration="108000" />
+      <workItem from="1620205929933" duration="4635000" />
+      <workItem from="1620213217663" duration="1763000" />
+      <workItem from="1620215008306" duration="5268000" />
+      <workItem from="1620542461410" duration="200000" />
+      <workItem from="1620542671238" duration="158000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

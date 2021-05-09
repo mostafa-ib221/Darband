@@ -1,0 +1,136 @@
+@font-face {
+    font-family:'BBCNassim';
+    src:url('BBCNassim.woff');
+    url('BBCNassim.woff') format('woff'),
+    url('BBCNassim.ttf') format('truetype');
+    font-weight:normal;
+    font-style:normal
+}
+@font-face {
+    font-family:'DastNevis';
+    src:url('danstevis.woff');
+    url('danstevis.woff') format('woff'),
+    url('danstevis.ttf') format('truetype');
+    font-weight:normal;
+    font-style:normal
+}
+@font-face {
+    font-family:'Suls';
+    src:url('Suls.woff');
+    url('Suls.ttf') format('truetype'),
+    url('Suls.woff') format('woff');
+    font-weight:normal;
+    font-style:normal
+}
+@font-face {
+    font-family:'Khodkar';
+    src:url('phalls_khodkar.woff');
+    url('phalls_khodkar.ttf') format('truetype'),
+    url('phalls_khodkar.woff') format('woff');
+    font-weight:normal;
+    font-style:normal
+}
+@font-face {
+    font-family:'Roze';
+    src:url('Roze.B.woff');
+    url('Roze.B.ttf') format('truetype'),
+    url('Roze.B.woff') format('woff');
+    font-weight:normal;
+    font-style:normal
+}
+@font-face {
+    font-family:'Abdoullah';
+    src:url('Mj_Abdoullah.woff');
+    url('Mj_Abdoullah.ttf') format('truetype'),
+    url('Mj_Abdoullah.woff') format('woff');
+    font-weight:normal;
+    font-style:normal
+}
+@font-face {
+    font-family:'Quran';
+    src:url('QuranFont.woff');
+    url('QuranFont.ttf') format('truetype'),
+    url('QuranFont.woff') format('woff');
+    font-weight:normal;
+    font-style:normal
+}
+@font-face {
+    font-family:'Ghalam';
+    src:url('Mj_Ghalam.woff');
+    url('Mj_Ghalam.ttf') format('truetype'),
+    url('Mj_Ghalam.woff') format('woff');
+    font-weight:normal;
+    font-style:normal
+}
+@font-face {
+    font-family:'Naskh';
+    src:url('W_naskh.woff');
+    url('W_naskh.ttf') format('truetype'),
+    url('W_naskh.woff') format('woff');
+    font-weight:normal;
+    font-style:normal
+}
+@font-face {
+    font-family:'Nazanin';
+    src:url('BNazanin.woff');
+    url('BNazanin.woff') format('woff'),
+    url('BNazanin.ttf') format('truetype');
+    font-weight:normal;
+    font-style:normal
+}
+@font-face {
+    font-family:'ArabicsStyle';
+    src:url('BArabicsStyle.woff');
+    url('BArabicsStyle.woff') format('woff'),
+    url('BArabicsStyle.ttf') format('truetype');
+    font-weight:normal;
+    font-style:normal
+}
+@font-face {
+    font-family:'Elham';
+    src:url('BElham.woff');
+    url('BElham.woff') format('woff'),
+    url('BElham.ttf') format('truetype');
+    font-weight:normal;
+    font-style:normal
+}
+@font-face {
+    font-family:'Esfehan';
+    src:url('BEsfehanBold.woff');
+    url('BEsfehanBold.woff') format('woff'),
+    url('BEsfehanBold.ttf') format('truetype');
+    font-weight:normal;
+    font-style:normal
+}
+@font-face {
+    font-family:'Haleh';
+    src:url('BHaleh.woff');
+    url('BHaleh.woff') format('woff'),
+    url('BHaleh.ttf') format('truetype');
+    font-weight:normal;
+    font-style:normal
+}
+@font-face {
+    font-family:'Homa';
+    src:url('BHoma.woff');
+    url('BHoma.woff') format('woff'),
+    url('BHoma.ttf') format('truetype');
+    font-weight:normal;
+    font-style:normal
+}
+@font-face {
+    font-family:'Jadid';
+    src:url('BJadidBold.woff');
+    url('BJadidBold.woff') format('woff'),
+    url('BJadidBold.ttf') format('truetype');
+    font-weight:normal;
+    font-style:normal
+}
+@font-face {
+    font-family:'Kamran';
+    src:url('BKamran.woff');
+    url('BKamran.woff') format('woff'),
+    url('BKamran.ttf') format('truetype');
+    font-weight:normal;
+    font-style:normal
+}
